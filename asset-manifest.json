@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.bc89dee2.css",
+    "main.js": "/my-react-portfolio/static/js/main.1ee1af7b.js",
+    "static/media/background.jpg": "/my-react-portfolio/static/media/background.ab39f53ec0275675841a.jpg",
+    "static/media/theBowelMvmt.png": "/my-react-portfolio/static/media/theBowelMvmt.2d65a9c810daa227cd23.png",
+    "static/media/cryptoPunx1.png": "/my-react-portfolio/static/media/cryptoPunx1.f3205243ece96cb42787.png",
+    "static/media/mail.gif": "/my-react-portfolio/static/media/mail.db54173dc23f330c116e.gif",
+    "static/media/unblockUnwind.png": "/my-react-portfolio/static/media/unblockUnwind.95585cdf470d3ee78e14.png",
+    "static/media/handyTextEditor.png": "/my-react-portfolio/static/media/handyTextEditor.07b5fd5c831fc1755716.png",
+    "static/media/avatar.jpeg": "/my-react-portfolio/static/media/avatar.01b4dc9c330e060a1762.jpeg",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.bc89dee2.css.map": "/my-react-portfolio/static/css/main.bc89dee2.css.map",
+    "main.1ee1af7b.js.map": "/my-react-portfolio/static/js/main.1ee1af7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc89dee2.css",
+    "static/js/main.1ee1af7b.js"
+  ]
+}
