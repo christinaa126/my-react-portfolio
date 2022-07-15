@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# my-react-portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Portfolio showcasing my projects and contact information
 
-## Available Scripts
+## Link
 
-In the project directory, you can run:
+### Click [here](https://christinaa126.github.io/my-react-portfolio/) to view the deployed link.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Link](#link)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Assets](#assets)
+- [License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Description
 
-### `npm test`
+This is my online portfolio where you can find out a little bit about me, my projects, resume, and contact information!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Please reach out to me with any questions or concerns.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**For users** - no installation required, please visit the deployed [application link](https://christinaa126.github.io/my-react-portfolio/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**For developers** - use the following commands in root folder
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- To install npm packages: `npm i`
+- To install [Material UI](https://mui.com/material-ui/getting-started/overview/) (if needed): `npm install @mui/material @emotion/react @emotion/styled`
+- To start the app: `npm start` or `npm run start`
+- To stop the app: `Control+C` then close your terminal
 
-### `npm run eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Upon clicking on the link- you will be redirected to the landing page where you can read a brief summary about me.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Navigation Bar**: You can click on the links (`AboutMe`, `Portfolio`, `Contact`, and `Resume`) to view the corresponding pages.
+  - `Portfolio`: Click on the title of the projects to be redirected to that deployed application.
+    - Clicking on the GitHub icon next to the project title will redirect user to the project's GitHub Repo.
+  - `Contact`:
+    - Use the **Contact Me** form to send me a message.
+    - View my contact information underneath the **Contact Me** form.
+  - `Resume`: You can view my front-end and back-end proficiencies as well as click the `resume` link that will redirect user to a downloadable PDF of my resume
+- **Bottom Navigation**
+  - Click on the `GitHub` icon to visit my GitHub profile page
+  - Click on the `LinkedIn` icon to visit my LinkedIn profile page
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Technologies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```md
+- HTML
+- CSS
+- JavaScript
+- Material UI
+- EmailJS
+- React / Create React App
+```
 
-## Learn More
+## Assets
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The following images demonstrate the web application's appearance and functionality:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**About Me**
+![screenshot of About Me section](public/images/aboutMe.png)
 
-### Code Splitting
+**Portfolio**
+![image for the Portfolio section](public/images/portfolio.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Contact**
+![image for the Contact section](public/images/contact.png)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Resume**
+![image for the Resume section](public/images/resume.png)
