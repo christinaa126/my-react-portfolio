@@ -55,8 +55,9 @@ export default function AboutMe() {
                 role while looking to further utilize my problem solving skills
                 and creativity. I have 6 years of experience managing a
                 large-scale production kitchen and am ready to apply these
-                skills to my new career. I am looking forward to joining a team
-                of individuals to co-create with.
+                skills to my new career. As a deeply motivated, fast learner- I
+                am looking forward to joining a team of individuals to co-create
+                with.
               </p>
             </div>
           </Box>
